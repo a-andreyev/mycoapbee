@@ -1,6 +1,8 @@
 # mycoapbee
 Testing Arduino UNO with WiFi Bee v2 via LilyPad Xbee
 
+![ScreenShot](https://dl.dropboxusercontent.com/u/39622126/live.jpeg)
+
 ## Arduino
 arduino uno.
 Arduino, by default, has a UDP transmit buffer of 24 bytes. This is too small for some endpoints and will result in an error.
