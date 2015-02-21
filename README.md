@@ -1,5 +1,5 @@
 # mycoapbee
-Testing CoAP [microcoap](https://github.com/1248/microcoap) realization with Arduino Uno and WiFi Bee v2 (via LilyPad Xbee)
+Testing CoAP [microcoap](https://github.com/1248/microcoap) realization with Arduino Uno and [WiFi Bee v2](http://www.seeedstudio.com/wiki/Wifi_Bee_V2.0) (via [LilyPad Xbee](https://www.sparkfun.com/products/12921))
 
 ![ScreenShot](https://dl.dropboxusercontent.com/u/39622126/live.jpeg)
 
@@ -19,13 +19,14 @@ but enough for:
 ```    
 
 ## WiFi Shield
-LilyPad XBee (by SparkFun)
+[LilyPad XBee (by SparkFun)](https://www.sparkfun.com/products/12921) 
 Supports 3.3V and 5V power supplies.
 
 ## WiFi module
-Wi-Fi Bee v2
+[Wi-Fi Bee v2](http://www.seeedstudio.com/wiki/Wifi_Bee_V2.0)
 needs 3.3V power supply.
 Works with arduino via rx-tx serial port (pin 2 and 3 in this project)
+[pdf with AT commands](http://files.amperka.ru/datasheets/WiFly-RN-UM.pdf)
 
 ## Source codes
 contains all additional files that you need for compilator
